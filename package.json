@@ -1,6 +1,6 @@
 {
-  "name": "database-js-mssql",
-  "version": "0.3.0",
+  "name": "database-js-mssql-sravniru",
+  "version": "0.3.1",
   "description": "Database-js driver for SQL Server that works on Linux, Mac, and Windows",
   "main": "index.js",
   "scripts": {
@@ -22,13 +22,13 @@
     "tds"
   ],
   "author": {
-    "name": "Thiago Delgado Pinto",
-    "url": "https://github.com/thiagodp"
+    "name": "Pilipenko Vladislav Valerevich",
+    "url": "https://github.com/Vla8islav"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thiagodp/database-js-mssql"
+    "url": "https://github.com/Vla8islav/database-js-mssql"
   },
   "dependencies": {
     "mssql": "^4.2.2",
